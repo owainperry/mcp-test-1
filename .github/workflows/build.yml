@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE: owainperry/mcp-test-1
+  IMAGE: operry/mcp-test-1
 
 jobs:
   build:
